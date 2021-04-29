@@ -20,3 +20,5 @@ for i in range(7):
 for j in range(5):
     person_1.eat()
 print(person_1)
+
+# ----
